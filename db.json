@@ -1,0 +1,23 @@
+{
+  "products": 
+    [
+      {
+        "url": "http://localhost:8085/images/029384.png.webp",
+        "figcaption": "iQOO Z1 5G版 8GB+128GB 星河银",
+        "price": 2498,
+        "id": 1
+      },
+      {
+        "url": "http://localhost:8085/images/394823.png.webp",
+        "figcaption": "iQOO Z1 5G版 8GB+128GB 太空蓝",
+        "price": 2498,
+        "id": 2
+      },
+      {
+        "url": "http://localhost:8085/images/938372.png.webp",
+        "figcaption": "iQOO Neo3 5G版 6GB+128GB 青空蓝",
+        "price": 2698,
+        "id": 3
+      }
+    ]
+}
