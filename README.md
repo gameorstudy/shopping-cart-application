@@ -3,6 +3,16 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 
+The web application focuses on functionality of shopping cart：
+  1. Fetch backend json data
+  2. vuex
+  3. localStorage to store shopping items
+  4. global component(s)
+  5. single component(s)
+  6. nprogress bar
+  7. modules in vuex
+  8. tailwindcss
+
 ## Project setup
 ```
 npm install
@@ -18,24 +28,23 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
+### global components registeration
 ```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
+npm install lodash
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-Using vuex to bulid a shopping cart application
->>>>>>> a362ec3517fcfae3a331d84b2ae13c04b195d219
-=======
-Using vuex to bulid a shopping cart application
->>>>>>> a362ec3517fcfae3a331d84b2ae13c04b195d219
-=======
-Using vuex to bulid a shopping cart application
->>>>>>> a362ec3517fcfae3a331d84b2ae13c04b195d219
+### axios & json-server
+```
+npm install axios
+npm install -g json-server
+```
+
+### tailwindcss style
+```
+npm install tailwindcss
+```
+
+### nprogress
+``` 
+npm insall nprogress
+```
